@@ -1,0 +1,60 @@
+[
+
+{
+  "username" : "",
+  "password" : ""
+},
+
+{
+  "username" : "Admin", 
+  "password" : ""
+},
+
+{
+  "username" : "",
+  "password" : "admin123"    
+},
+
+{
+  "username" : "vicky",
+  "password" : ""    
+},
+
+{
+  "username" : "",
+  "password" : "vickkyyy" 
+},
+
+
+{
+  "username" : "vicky",
+  "password" : "vickkyyy"   
+},
+
+{
+  "username" : "Admin",
+  "password" : "vickkyyy"  
+  
+},
+
+{ 
+  "username" : "vicky",
+  "password":"admin123"  
+  
+},
+
+{
+  "username" : "Admin",     
+  "password" : "Admin123"
+},
+
+{
+  "username" : "Admin",   
+  "password" : "admin123"
+},
+
+{
+  "username" : "admin",  
+  "password" : "admin123"}
+
+]
